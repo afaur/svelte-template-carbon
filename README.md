@@ -7,10 +7,10 @@
   - `cd my-project`
   - `yarn`
 
-## Adding Dependencies [YARN]
+### Adding Dependencies [YARN]
   - `yarn -D dependency-name`
 
-## Running Project [YARN]
+### Running Project [YARN]
   - `yarn run dev`
 
 ## Setup with NPM
@@ -18,8 +18,8 @@
   - `cd my-project`
   - `npm install`
 
-## Adding Dependencies [NPM]
+### Adding Dependencies [NPM]
   - `npm install --save-dev dependency-name`
   
-## Running Project [NPM]
+### Running Project [YARN]
   - `npm run dev`
