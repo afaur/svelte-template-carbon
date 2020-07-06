@@ -1,10 +1,19 @@
 <script>
+	import { Button } from "carbon-components-svelte"
 	export let name;
 </script>
 
+<svelte:head>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/carbon-components@10.9.0/css/carbon-components.min.css"
+  />
+</svelte:head>
+
 <main>
 	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<p>Visit the <Button href="https://svelte.dev/tutorial">Svelte
+    tutorial</Button> to learn how to build Svelte apps.</p>
 </main>
 
 <style>
