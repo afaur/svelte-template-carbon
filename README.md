@@ -1,6 +1,6 @@
 ## Getting started
   - Depending on your bundler preference look at `Setup with Yarn` or `Setup with NPM`
-  - Next look at `Adding Dependencies [packager]` and `Running Project [packager]
+  - Next look at `Adding Dependencies [packager]` and `Running Project [packager]`
 
 ## Setup with Yarn
   - `git clone https://github.com/afaur/svelte-template-carbon my-project`
