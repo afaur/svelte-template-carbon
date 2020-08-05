@@ -2,6 +2,7 @@
   - Fork of https://github.com/sveltejs/template
     - Replaces `README` with getting started steps for `NPM` vs `YARN`.
     - Minimal changes to include `carbon-components-svelte`.
+      - https://github.com/afaur/svelte-template-carbon/commit/2bbb7aa4b77b430462be7082407e0d8af4f8fefe
 
 ## Getting started
   - Depending on your bundler preference look at `Setup with Yarn` or `Setup with NPM`
